@@ -59,3 +59,4 @@ Where 'server_name' is one of the 5 server IDs mentioned above. This will launch
 
 You can use the 'nc' or 'telnet' commands to connect to a server (obviously a running server) in order to send it messages and test its functionality.
 
+In order to access the google places API, you need to [enable an API](https://console.developers.google.com/flows/enableapi?apiid=places_backend&keyType=SERVER_SIDE&reusekey=true).
